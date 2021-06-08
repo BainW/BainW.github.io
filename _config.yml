@@ -15,6 +15,9 @@ author: Bain
 
 navbar-links:
   About Me: "aboutme"
+  Research:
+    - Projects: "projects.md"
+    - Publications: "publications.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
