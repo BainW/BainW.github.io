@@ -18,10 +18,10 @@ navbar-links:
   Research:
     - Projects: "projects"
     - Publications: "publications"
+    - Collection: "collection"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Collection: "collection"
   Author's home: "https://bainw.github.io/"
 
 # --- Logo --- #
