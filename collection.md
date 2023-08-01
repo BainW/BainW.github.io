@@ -1,5 +1,7 @@
 ---
-
+layout: page
+title: Valuable resource
+subtitle: Why you'd want to go on a date with me
 ---
 
 # 实验室网站
@@ -17,8 +19,6 @@
 [Advanced Navigation and Control Systems](http://ancs.eng.buffalo.edu/index.php/Main_Page)
 
 [RFLY北航可靠飞行控制研究组 - BUAA Reliable Flight Control Group](http://rfly.buaa.edu.cn/index.html)
-
-
 
 
 
