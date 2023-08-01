@@ -6,7 +6,7 @@
 
 [MIT-WHOI Joint Program](https://mit.whoi.edu/)
 
-[About | Oceans at MIT](http://oceans.mit.edu/about.html)
+[About Oceans at MIT](http://oceans.mit.edu/about.html)
 
 [Home - Robot Perception Lab](http://rpl.ri.cmu.edu/)
 
@@ -16,7 +16,7 @@
 
 [Advanced Navigation and Control Systems](http://ancs.eng.buffalo.edu/index.php/Main_Page)
 
-[RFLY|北航可靠飞行控制研究组 - BUAA Reliable Flight Control Group](http://rfly.buaa.edu.cn/index.html)
+[RFLY北航可靠飞行控制研究组 - BUAA Reliable Flight Control Group](http://rfly.buaa.edu.cn/index.html)
 
 
 
@@ -46,7 +46,7 @@
 
 [QGC - QGroundControl - Drone Control](http://qgroundcontrol.com/)
 
-[【BlueROV2】开源资料汇总 - BlueROV2 | 学习讨论 - BlueRobots 水下机器人社区 - 交流论坛](https://forum.bluerobots.cn/t/bluerov2/295)
+[BlueROV2 水下机器人社区](https://forum.bluerobots.cn/t/bluerov2/295)
 
 [学习文档 - SeaRobotix - 鳌海水下机器人官网](https://searobotix.com/learn/)
 
@@ -84,7 +84,7 @@
 
 [Table of Contents · Crafting Interpreters](http://www.craftinginterpreters.com/contents.html)
 
-[[1011.4088\] An Introduction to Conditional Random Fields](https://arxiv.org/abs/1011.4088)
+[1011.4088\] An Introduction to Conditional Random Fields](https://arxiv.org/abs/1011.4088)
 
 [10708 Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 
