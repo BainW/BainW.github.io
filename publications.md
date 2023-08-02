@@ -9,7 +9,6 @@ subtitle: Why you'd want to go on a date with me
 - Wang, W., Wen, T., He, X., Xu, G., 2023. Robust trajectory tracking and control allocation of X-rudder AUV with actuator uncertainty. Control Engineering Practice 136, 105535. https://doi.org/10.1016/j.conengprac.2023.105535
 - Wang, W., Wen, T., He, X., Xu, G., 2023. Path Following With Prescribed Performance for Under-Actuated Autonomous Underwater Vehicles Subjects to Unknown Actuator Dead-Zone. IEEE Transactions on Intelligent Transportation Systems 1–11. https://doi.org/10.1109/TITS.2023.3248153
 
-
 2020
 ---
 - Wang, W., Xia, Y., Chen, Y., Xu, G., Chen, Z., Xu, K., 2020. Motion control methods for X-rudder underwater vehicles: Model based sliding Mode and non-model based iterative sliding mode. Ocean Engineering 216, 108054. https://doi.org/10.1016/j.oceaneng.2020.108054
