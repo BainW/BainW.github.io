@@ -64,7 +64,7 @@ subtitle: Why you'd want to go on a date with me
 
 [Distributed Systems-Martin Kleppmann, 分布式系统课，剑桥大学，2020_哔哩哔哩_bilibili](https://www.bilibili.com/video/av415590202/)
 
-[Electrical Engineering and Computer Science  MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+[Electrical Engineering and Computer Science  MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
 [QUT Robot Academy](https://robotacademy.net.au/)
 
