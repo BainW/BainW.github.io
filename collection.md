@@ -34,6 +34,8 @@ subtitle: Why you'd want to go on a date with me
 
 [Unmanned Underwater Vehicle Simulator Documentation (uuvsimulator.github.io)](https://uuvsimulator.github.io/)
 
+[DAVE Aquatic Virtual Environment] (https://field-robotics-lab.github.io/dave.doc/)
+
 [Autonomous Underwater Vehicles – MATLAB & Simulink - MATLAB & Simulink](https://www.mathworks.com/solutions/aerospace-defense/auv.html)
 
 [AUV Deep Dive - MATLAB & Simulink](https://www.mathworks.com/videos/series/auv-deep-dive.html)
